@@ -18,7 +18,7 @@ The bootCon presentation demonstrates my ability to communicate complex cybersec
 ---
 
 ## Project Summary
-My project focused on **[insert your specific project title, e.g., “Hardening a Linux Server for Secure Operations” or “Building a Security Monitoring Environment”]**.
+
 
 During the presentation, I covered:
 1. **Technical Background** – Why I selected the project and what cybersecurity problem it addressed.  
